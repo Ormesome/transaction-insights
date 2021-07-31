@@ -1,0 +1,52 @@
+{
+  "categoryData": [
+    {
+      "value": "0",
+      "label": "general",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#000000"
+    },
+    {
+      "value": "1",
+      "label": "groceries",
+      "backgroundColor": "#0000FF",
+      "borderColor": "#000000"
+    },
+    {
+      "value": "2",
+      "label": "medical",
+      "backgroundColor": "#00FF00",
+      "borderColor": "#000000"
+    },
+    {
+      "value": "3",
+      "label": "clothes",
+      "backgroundColor": "#00FFFF",
+      "borderColor": "#000000"
+    },
+    {
+      "value": "4",
+      "label": "transfer (in)",
+      "backgroundColor": "#FF0000",
+      "borderColor": "#000000"
+    },
+    {
+      "value": "5",
+      "label": "transfer (out)",
+      "backgroundColor": "#FF00FF",
+      "borderColor": "#000000"
+    },
+    {
+      "value": "6",
+      "label": "unknown 1",
+      "backgroundColor": "#FFFF00",
+      "borderColor": "#000000"
+    },
+    {
+      "value": "7",
+      "label": "unknown 2",
+      "backgroundColor": "#808080",
+      "borderColor": "#000000"
+    }
+  ]
+}
